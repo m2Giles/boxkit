@@ -1,3 +1,5 @@
+[![build-boxkit](https://github.com/m2Giles/boxkit/actions/workflows/build-boxkit.yml/badge.svg)](https://github.com/m2Giles/boxkit/actions/workflows/build-boxkit.yml)
+
 # boxkit
 
 A base image and action for Toolbx and Distrobox.
