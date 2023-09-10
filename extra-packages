@@ -29,7 +29,7 @@ ncurses
 neofetch
 neovim
 npm
-openjdk20-jre-headless
+openjdk17-jre-headless
 plocate
 python3
 py3-pynvim
